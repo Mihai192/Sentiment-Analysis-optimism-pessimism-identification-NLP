@@ -1,0 +1,1300 @@
+text,sentiment
+This movie is great!,positive
+I really enjoyed the book.,positive
+The weather is terrible.,negative
+I hate Mondays.,negative
+The food was delicious.,positive
+The service was slow.,negative
+I feel happy today.,positive
+I'm feeling sad.,negative
+This song is amazing!,positive
+I can't stand the traffic.,negative
+The movie was fantastic!,positive
+The concert was disappointing.,negative
+I'm thrilled with the results.,positive
+I'm upset about the situation.,negative
+The product exceeded my expectations.,positive
+I'm disappointed with the service.,negative
+The weather ruined my plans.,negative
+I'm excited about the new project.,positive
+I'm frustrated with the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The food was terrible.,negative
+I'm concerned about the impact.,negative
+The service was exceptional.,positive
+I'm delighted with the outcome.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The staff was helpful.,positive
+I'm uncertain about the decision.,negative
+The movie was disappointing.,negative
+I'm pleased with the outcome.,positive
+The service was excellent.,positive
+I'm concerned about the impact.,negative
+The food was average.,neutral
+I'm confident in our team.,positive
+I'm worried about the future.,negative
+The performance was lackluster.,negative
+The product was defective.,negative
+I'm hopeful for a resolution.,positive
+The concert was a success!,positive
+I'm unhappy with the experience.,negative
+The support was exceptional.,positive
+I'm optimistic about the outcome.,positive
+I'm pessimistic about the future.,negative
+I'm satisfied with the service.,positive
+The weather was awful.,negative
+I'm frustrated with the situation.,negative
+The food was terrible.,negative
+I'm thrilled with the response.,positive
+The movie was excellent!,positive
+I'm upset about the delay.,negative
+The experience was fantastic.,positive
+I'm ecstatic about the news.,positive
+The staff was rude.,negative
+I'm anxious about the decision.,negative
+The show was outstanding!,positive
+I'm concerned about the impact.,negative
+The product was outstanding.,positive
+I'm hopeful for a positive outcome.,positive
+The concert was disappointing.,negative
+I'm delighted with the outcome.,positive
+The service was exceptional.,positive
+I'm unhappy with the outcome.,negative
+The weather was perfect!,positive
+I'm feeling positive about the situation.,positive
+The experience exceeded my expectations.,positive
+The weather was pleasant.,neutral
+I have mixed feelings about it.,neutral
+The food was okay.,neutral
+I'm indifferent to the situation.,neutral
+The movie was average.,neutral
+I'm on the fence about the news.,neutral
+The staff was neither friendly nor unfriendly.,neutral
+I'm impartial about the decision.,neutral
+The show was neither impressive nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product met my expectations.,neutral
+I'm neutral about the outcome.,neutral
+The service was adequate.,neutral
+I'm undecided about the situation.,neutral
+The performance was neither good nor bad.,neutral
+The product was neither exceptional nor defective.,neutral
+I have no strong feelings about the concert.,neutral
+I'm neutral about the experience.,neutral
+The support was satisfactory.,neutral
+I'm indifferent about the outcome.,neutral
+The weather was neither good nor bad.,neutral
+I'm neutral about the news.,neutral
+The experience was neither outstanding nor terrible.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither helpful nor rude.,neutral
+I have no particular feelings about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the situation.,neutral
+The product was neither exceptional nor terrible.,neutral
+I'm neutral about the impact.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the outcome.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm neutral about the experience.,neutral
+The weather was neither perfect nor terrible.,neutral
+I'm indifferent about the situation.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the news.,neutral
+The staff was neither rude nor friendly.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor terrible.,neutral
+I have no strong feelings about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm neutral about the outcome.,neutral
+The concert was neither exceptional nor terrible.,neutral
+I'm indifferent about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm neutral about the situation.,neutral
+The weather was neither perfect nor awful.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor terrible.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm indifferent about the outcome.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm indifferent about the situation.,neutral
+The weather was neither perfect nor terrible.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm indifferent about the outcome.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm indifferent about the situation.,neutral
+The weather was neither perfect nor terrible.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm indifferent about the outcome.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm indifferent about the situation.,neutral
+The weather was neither perfect nor terrible.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm indifferent about the outcome.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm indifferent about the situation.,neutral
+The weather was neither perfect nor terrible.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm indifferent about the outcome.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm indifferent about the situation.,neutral
+The weather was neither perfect nor terrible.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm indifferent about the outcome.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm indifferent about the situation.,neutral
+The weather was neither perfect nor terrible.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither outstanding nor disappointing.,neutral
+I'm neutral about the impact.,neutral
+The product was neither outstanding nor defective.,neutral
+I'm indifferent about the outcome.,neutral
+The concert was neither exceptional nor disappointing.,neutral
+I'm neutral about the experience.,neutral
+The service was neither exceptional nor unsatisfactory.,neutral
+I'm indifferent about the situation.,neutral
+The weather was neither perfect nor terrible.,neutral
+I have no strong feelings about the news.,neutral
+The experience was neither fantastic nor awful.,neutral
+I'm neutral about the delay.,neutral
+The staff was neither friendly nor rude.,neutral
+I'm indifferent about the decision.,neutral
+The show was neither.,neutral
+
+i think the next experience is not going to be as good as expected.,negative

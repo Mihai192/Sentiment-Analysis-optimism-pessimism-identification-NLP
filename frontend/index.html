@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Sentiment Analysis - Pessimism or Optimism</title>
+
+		<link rel="stylesheet" href="styles/index.css" />
+	</head>
+	<body>
+		<h1>Sentiment Analysis: Pessimism or Optimism</h1>
+
+		<div id="response"></div>
+
+		<form action="http://127.0.0.1:5000/analyze" method="post">
+			<textarea name="text" id="text-form" rows="20"></textarea>
+
+			<select name="algorithm-type" id="algorithm-select">
+				<option value="0">Lexicon-Based Approach</option>
+				<option value="1">Supervised Approach</option>
+				<option value="2">Hybrid Approach</option>
+			</select>
+
+			<button id="btn-form">Analyze</button>
+		</form>
+
+		<script src="scripts/api_call.js"></script>
+	</body>
+</html>

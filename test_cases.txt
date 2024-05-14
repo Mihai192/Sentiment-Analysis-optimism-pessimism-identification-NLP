@@ -1,0 +1,31 @@
+Optimistic:
+
+Text: "Just finished a great workout session at the gym. Feeling energized and ready to take on the day!"
+
+Text: "Received wonderful news today! My best friend is coming to visit next weekend."
+
+
+Text: "The sun is shining, birds are chirping, and it's a beautiful day to be alive!"
+
+
+Pessimistic:
+
+Text: "Stuck in traffic again. Just my luck."
+
+
+Text: "Seems like nothing is going my way lately. Can't catch a break."
+
+
+Text: "Another rejection letter from job applications. Starting to lose hope."
+
+
+Neutral:
+
+Text: "The new restaurant in town opened its doors yesterday."
+
+
+Text: "The quarterly earnings report will be released next week."
+
+
+Text: "Today's agenda includes meetings with clients and reviewing project deadlines."
+
