@@ -14,9 +14,9 @@ form.addEventListener("submit", (e) => {
 		"algorithm-type",
 		document.getElementById("algorithm-select").value.toString()
 	);
-
+	
 	// Send Fetch request
-	fetch("http://127.0.0.1:5000/analyze", {
+	fetch("https://michael099.pythonanywhere.com/analyze", {
 		method: "POST",
 		body: formData,
 	})
