@@ -15,6 +15,8 @@ form.addEventListener("submit", (e) => {
 		document.getElementById("algorithm-select").value.toString()
 	);
 	
+	document.getElementById("response").textContent = 'Waiting for a response...';
+	
 	// Send Fetch request
 	fetch("https://michael099.pythonanywhere.com/analyze", {
 		method: "POST",
