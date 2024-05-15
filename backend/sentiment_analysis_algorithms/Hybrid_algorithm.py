@@ -93,8 +93,8 @@ def analyze_sentiment(text):
 
 		return sentiment
 		
-	lexicon_weight = 0.7
-	supervised_weight = 0.3
+	lexicon_weight = 0.1
+	supervised_weight = 0.9
 
 	lexicon_score = lexicon_approuch(text)
 	supervised_response = supervised_approuch(text)
